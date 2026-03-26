@@ -7,7 +7,7 @@ public class Main {
         int opcion;
 
         do {
-            System.out.println("\n--- MENÚ INVENTARIO ---");
+            System.out.println(" MENÚ INVENTARIO ");
             System.out.println("1. Registrar Producto");
             System.out.println("2. Mostrar Inventario");
             System.out.println("3. Buscar Producto");
@@ -27,7 +27,7 @@ public class Main {
                     break;
 
                 case 2:
-                    System.out.println("\nInventario:");
+                    System.out.println("Inventario:");
                     arbol.mostrarInventario();
                     break;
 

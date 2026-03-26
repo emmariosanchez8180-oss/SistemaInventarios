@@ -1,30 +1,23 @@
-# Inventario con Árbol Binario
+# Inventario con Árbol Binario por Emmanuel rios sanchez 
 
 ## Objetivo
 Desarrollar una aplicación de consola en Java que gestione un inventario utilizando un árbol binario de búsqueda (BST).
 
 ## Estructura del Proyecto
-```
 /src
  ├── Producto.java
  ├── ArbolInventario.java
  └── Main.java
-```
-
-## Herramientas utilizadas
-- VS Code
-- JDK Eclipse Temurin
 
 ## Instrucciones de ejecución
 1. Abrir el proyecto en VS Code.
+
 2. Compilar los archivos:
-   ```
    javac src/*.java
-   ```
+
 3. Ejecutar:
-   ```
    java -cp src Main
-   ```
+
 
 ## Funcionalidades
 - Registrar productos (ID y nombre)
