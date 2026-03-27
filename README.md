@@ -27,7 +27,12 @@ Desarrollar una aplicación de consola en Java que gestione un inventario utiliz
 ## Evidencias (captura)
 ### Menú, inserción y búsqueda 
 
-![IEnlace aquí](https://drive.google.com/file/d/1KWU2AyVTtl2d_Yx5olsw-QTz-nxsMeEe/view?usp=sharing)
+![image alt](https://github.com/emmariosanchez8180-oss/SistemaInventarios/blob/032da89c556dd46332855be5d8d7e160a03a115f/consola%20img.png)
+
 
 ## Video de sustentación
-![image alt](https://github.com/emmariosanchez8180-oss/SistemaInventarios/blob/032da89c556dd46332855be5d8d7e160a03a115f/consola%20img.png)
+
+![IEnlace aquí](https://drive.google.com/file/d/1TL7Qn3sVnG0s_DxgShEymlDtPN8xPVWX/view?usp=sharing)
+
+
+
