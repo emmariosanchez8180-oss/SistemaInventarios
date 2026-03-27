@@ -32,7 +32,7 @@ Desarrollar una aplicación de consola en Java que gestione un inventario utiliz
 
 ## Video de sustentación
 
-![IEnlace aquí](https://drive.google.com/file/d/1TL7Qn3sVnG0s_DxgShEymlDtPN8xPVWX/view?usp=sharing)
+[IEnlace aquí]([https://drive.google.com/file/d/1TL7Qn3sVnG0s_DxgShEymlDtPN8xPVWX/view?usp=sharing)
 
 
 
