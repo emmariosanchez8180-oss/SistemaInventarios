@@ -25,14 +25,10 @@ Desarrollar una aplicación de consola en Java que gestione un inventario utiliz
 - Buscar producto por ID
 
 ## Evidencias (capturas)
-### Menú
-![Menú](ruta/imagen_menu.png)
+### Menú, inserción y búsqueda 
 
-### Inserción
-![Inserción](ruta/imagen_insercion.png)
+![IEnlace aquí](ruta/imagen_insercion.png)
 
-### Búsqueda
-![Búsqueda](ruta/imagen_busqueda.png)
 
 ## Video de sustentación
 [Enlace aquí](https://tu-video-aqui.com)
