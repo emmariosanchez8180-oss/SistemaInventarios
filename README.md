@@ -24,11 +24,10 @@ Desarrollar una aplicación de consola en Java que gestione un inventario utiliz
 - Mostrar inventario ordenado (inorden)
 - Buscar producto por ID
 
-## Evidencias (capturas)
+## Evidencias (captura)
 ### Menú, inserción y búsqueda 
 
-![IEnlace aquí](ruta/imagen_insercion.png)
-
+![IEnlace aquí](https://drive.google.com/file/d/1KWU2AyVTtl2d_Yx5olsw-QTz-nxsMeEe/view?usp=sharing)
 
 ## Video de sustentación
-[Enlace aquí](https://tu-video-aqui.com)
+[Enlace aquí](https://drive.google.com/file/d/1TL7Qn3sVnG0s_DxgShEymlDtPN8xPVWX/view?usp=sharing)
